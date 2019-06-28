@@ -1,0 +1,52 @@
+.contentR{
+	font-family: 'Arial';
+	position: relative;
+	top: 100px;
+	left: 230px; 
+}
+.achieve{
+	font-family: 'Arial';
+	position: relative;
+	top: 300px;
+	left: 230px; 
+
+}
+.infoSchool{
+	position: relative;
+	top: 50px;
+	left: 150px; 
+	margin: 20px;
+}
+.right{
+	position: relative;
+	float: left;
+}
+.left{
+	position: relative;
+	left: 200px;
+	
+}
+h2{
+	color: black;
+	font-size: 50px;
+}
+.head{
+	font-size: 30px;
+	top: -20px;
+	position: relative;
+}
+.date{
+	font-size: 20px;
+	top: -30px;
+	position: relative;
+}
+.school{
+	font-size: 40px;
+	top: -30px;
+	position: relative;
+}
+.cert{
+	font-size: 30px;
+	position: relative;
+	left: 620px;
+}
